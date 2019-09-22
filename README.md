@@ -5,7 +5,7 @@
 		<!--
 			.purple{color:FF00FF}
 		-->
-       </style>
+      		 </style>
 	</head>
 	<body>
 		<h1><center>团队工作</center></h1>
