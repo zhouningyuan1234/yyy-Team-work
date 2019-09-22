@@ -12,5 +12,4 @@
 		<div>搬砖规则:<button title="hello"><a href="http://www.baidu.com"><span class="purple">前往</span></a></button></div>
 		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyytuandui/">返回</a></button></div>
 	</body>
-	</body>
 </html>
