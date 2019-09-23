@@ -3,13 +3,12 @@
 		<title>tuanduigonzuo</title>
 		<style type="text/css">
 		<!--
-			.purple{color:FF00FF}
+			.purple{color:#FF00FF}
 		-->
       		</style>
 	</head>
 	<body>
 		<h1><center>团队工作</center></h1>
-		<div>团队工作:<button title="hello"><a href="https://zhouningyuan1234.github.io/tuanduigongzuo/"><span class="purple">前往</span></a></button></div>
 		<div>搬砖规则:<button title="hello"><a href="http://www.baidu.com"><span class="purple">前往</span></a></button></div>
 		<div>总部:<button title="back"><a href="https://zhouningyuan1234.github.io/yyytuandui/"><span class="purple">返回</span></a></button></div>
 	</body>
